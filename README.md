@@ -1,6 +1,6 @@
 # Firebase_Create_Save_User_Info
 
-This is FireBase Password Reset Tutorial Application built on Flutter 3.7
+This is FireBase Create & Save UserInfo Tutorial Application built on Flutter 3.7
 
 -------------------------------------------------------------------------------------
 
