@@ -14,7 +14,7 @@ New User added: stevej@gmail.com password: password
 
 -------------------------------------------------------------------------------------
 
-When Sign-Up, user information collected and saved in FireBase Data store.
+When Sign-Up, user information created and saved in FireBase Data store.
 
 -------------------------------------------------------------------------------------
 
